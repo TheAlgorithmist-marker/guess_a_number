@@ -19,16 +19,6 @@
 - 玩家反馈 Too High / Too Low / Correct
 - 显示电脑猜测次数和用时
 
-## 编译与运行
-
-### 环境要求
-- 支持 C++11 及以上的编译器（g++ 推荐）
-- Windows / Linux / macOS 均可
-
-### 编译命令
-```bash
-g++ guess.cpp -o guess_game
-
 ##使用说明
 
 启动程序后选择模式：
@@ -63,3 +53,14 @@ C++ 基本语法的综合运用
 软件工程专业学生
 
 这是我学习 C++ 过程中完成的第一个较完整的小项目。
+
+## 编译与运行
+
+### 环境要求
+- 支持 C++11 及以上的编译器（g++ 推荐）
+- Windows / Linux / macOS 均可
+
+### 编译命令
+```bash
+g++ guess.cpp -o guess_game
+
